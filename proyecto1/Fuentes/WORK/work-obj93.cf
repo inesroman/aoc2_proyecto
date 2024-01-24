@@ -1,0 +1,64 @@
+v 4
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "counter.vhd" "4c787804472fe6172d2d20f4bfdcfb0934d580c9" "20230507181609.563":
+  entity counter at 20( 487) + 0 on 51;
+  architecture behavioral of counter at 46( 1270) + 0 on 52;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "memoriaRAM_D_tests.vhd" "624375570396db633950c703086c877cd4252b59" "20230507181609.460":
+  entity data_memory_subsystem at 20( 470) + 0 on 47;
+  architecture behavioral of data_memory_subsystem at 47( 1681) + 0 on 48;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "mux2_5bits.vhd" "380d4d9ec33f6a77c2e56b7f36dec5b19b69ff9d" "20230507181609.376":
+  entity mux2_5bits at 20( 489) + 0 on 43;
+  architecture behavioral of mux2_5bits at 39( 1068) + 0 on 44;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "mux2_1.vhd" "16c03f03addbb8a3f3dad9a1da21f497d0aa4854" "20230507181609.290":
+  entity mux2_1 at 20( 493) + 0 on 39;
+  architecture behavioral of mux2_1 at 39( 1069) + 0 on 40;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "UA_completar.vhd" "cecd6359ab5a24c4d38301343b80989b17f49123" "20230507181609.200":
+  entity ua at 20( 504) + 0 on 35;
+  architecture behavioral of ua at 48( 1333) + 0 on 36;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "UD_completar.vhd" "7c78d5c8668c321fa7f05b2fdeab74051ead1ad6" "20230507181609.068":
+  entity ud at 20( 504) + 0 on 31;
+  architecture behavioral of ud at 44( 2003) + 0 on 32;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "bits_shifter.vhd" "84314704fb90b0c3a56bacef575e87f50f736186" "20230507181608.996":
+  entity two_bits_shifter at 20( 491) + 0 on 27;
+  architecture behavioral of two_bits_shifter at 37( 1003) + 0 on 28;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "BReg.vhd" "bb69d410cca56dd4f196ac706a7044ffa4091399" "20230507181608.912":
+  entity breg at 20( 481) + 0 on 23;
+  architecture behavioral of breg at 49( 1525) + 0 on 24;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "memoriaRAM_I_tests.vhd" "31135ca6c51fc489c84b620ff1df1d5daba90a9f" "20230507181608.825":
+  entity memoriaram_i at 20( 551) + 0 on 19;
+  architecture behavioral of memoriaram_i at 45( 1599) + 0 on 20;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "REGISTER.vhd" "bb1f16639744f39ecc1ef4892185e16345358757" "20230507181608.737":
+  entity reg at 2( 2) + 0 on 15;
+  architecture behavioral of reg at 15( 421) + 0 on 16;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "testbench_Mips.vhd" "00a4b5ccce38f24add05aca92ae3984680deeead" "20230507181204.663":
+  entity testbench at 3( 26) + 2 on 11;
+  architecture behavior of testbench at 10( 149) + 2 on 12;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "Mips_segmentado_IRQ_completar_2023.vhd" "f2dee947179c54a6e2f0923428bfd861afa6e979" "20230507181608.505":
+  entity mips_segmentado at 28( 1023) + 0 on 13;
+  architecture behavioral of mips_segmentado at 39( 1480) + 0 on 14;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "adder32.vhd" "314628325a7fba8ded83ce676b48051d32b99dc4" "20230507181608.791":
+  entity adder32 at 20( 486) + 0 on 17;
+  architecture behavioral of adder32 at 39( 1097) + 0 on 18;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "Banco_ID.vhd" "688b006032428225982a73c4921ea61c8c20d37f" "20230507181608.870":
+  entity banco_id at 4( 288) + 0 on 21;
+  architecture behavioral of banco_id at 24( 1122) + 0 on 22;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "Ext_signo.vhd" "a86099b57bba8e351753e752f26601c7908ad4f4" "20230507181608.964":
+  entity ext_signo at 20( 488) + 0 on 25;
+  architecture behavioral of ext_signo at 37( 989) + 0 on 26;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "UC_Mips_solucion.vhd" "14864379005e2b188d9831a50c6e22a39daa09cf" "20230507181609.028":
+  entity uc at 20( 481) + 0 on 29;
+  architecture behavioral of uc at 50( 1601) + 0 on 30;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "Banco_EX.vhd" "13c2b29b8d9f3811a13f523032b642af624d1cb0" "20230507181609.139":
+  entity banco_ex at 20( 487) + 0 on 33;
+  architecture behavioral of banco_ex at 72( 2533) + 0 on 34;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "mux4_1_32bits.vhd" "635b1c2a967854cacd1ee923fa6313d8675aa07d" "20230507181609.252":
+  entity mux4_1_32bits at 1( 0) + 0 on 37;
+  architecture behavioral of mux4_1_32bits at 12( 400) + 0 on 38;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "ALU.vhd" "fca63fa8fc61d3cd01cfde1906ae51a252b54ab4" "20230507181609.323":
+  entity alu at 12( 248) + 0 on 41;
+  architecture behavioral of alu at 32( 1049) + 0 on 42;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "Banco_MEM.vhd" "c32a4dd83ae0231c761549d297a172c932d55835" "20230507181609.407":
+  entity banco_mem at 20( 488) + 0 on 45;
+  architecture behavioral of banco_mem at 58( 1975) + 0 on 46;
+file "/home/ines/Documentos/aoc2/Proyecto 1/" "Banco_WB.vhd" "b7e69d6c5d6b0abc9126c7cc0c2d9db07c45ba7d" "20230507181609.518":
+  entity banco_wb at 20( 487) + 0 on 49;
+  architecture behavioral of banco_wb at 50( 1614) + 0 on 50;
